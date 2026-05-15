@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST: Usuario PWA ID 1
+
+#EXTINF:-1 tvg-id="" tvg-name="pokemon" tvg-logo="https://pics.filmaffinity.com/pokemon_detective_pikachu-220563876-large.jpg" group-title="0",pokemon
+http://rlatinop.com:8880/movie/ermrmsqutt/6WYPqa6YvfHQ/300568.mp4
+
